@@ -10,9 +10,4 @@ export const StyledInput = styled.input`
   font-family: "Roboto Mono", monospace;
   font-size: 1rem;
   outline: none;
-  transition: border-radius 0.5s ease;
-
-  &:focus {
-    border-radius: 16px !important;
-  }
 `;
